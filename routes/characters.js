@@ -21,7 +21,7 @@ router.get("/", function (req, res, next) {
     en las comunicación entre el cliente y el servidor.
     res.json(info)
   */
-
+  res.json(info)
   res.json(data);
 });
 
