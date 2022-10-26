@@ -22,7 +22,7 @@ router.get("/", function (req, res, next) {
     res.json(info)
   */
 
-  res.json(data.results);
+  res.json(data);
 });
 
 /*

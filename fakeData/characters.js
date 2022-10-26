@@ -1,5 +1,4 @@
 data = {
-  results:{
     results: [
       {
       "id": 1,
@@ -146,8 +145,6 @@ data = {
       "created": "2017-11-04T18:50:21.651Z"
   },
     ],
-  },
-
 };
 
 module.exports = data;
